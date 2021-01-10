@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: About
 date: 2017-10-09T00:00:00+00:00
 ---
 
