@@ -37,7 +37,7 @@ enableRobotsTXT = true
 # Number of items per page in paginated
 # lists (valid for the `posts` homepage
 # layout in MemE)
-paginate = 5
+paginate = 6
 
 # URL related
 disablePathToLower = false
@@ -932,9 +932,9 @@ uglyURLs = false
     # Menu bar
     fontFamilyMenu = ""
     # Post title, post subtitle, list title, year and month title of the list, related posts title, previous/next post title, header of table, term/name in a definition list
-    fontFamilyTitle = "'Comfortaa', sans-serif"
+    fontFamilyTitle = "'Source Sans Pro', sans-serif"
     # Headings, toc title
-    fontFamilyHeadings = "'Comfortaa', sans-serif"
+    fontFamilyHeadings = "'Source Sans Pro', sans-serif"
     # Code, superscript, post meta info, post updated badge, post gitinfo, minimal footer, busuanzi site view counter
     fontFamilyCode = "'Source Code Pro', monospace"
     # Blockquotes
@@ -949,7 +949,7 @@ uglyURLs = false
     fontFamilyBody = "'IBM Plex Serif', serif"
 
     # Embed fonts link
-    fontsLink = "https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,500;0,700;1,400;1,700&family=Source+Code+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Comfortaa:wght@700&display=swap"
+    fontsLink = "https://fonts.googleapis.com/css2?family=IBM+Plex+Serif&family=Source+Code+Pro&family=Source+Sans+Pro:wght@400&display=swap"
     # Note: In order for the reader to
     #       experience the fonts you set,
     #       it is best to use web fonts.
@@ -1135,7 +1135,7 @@ uglyURLs = false
     #       `related` in post’s Front Matter
     #       has a higher priority than here
 
-    relatedPostsNumber = 5
+    relatedPostsNumber = 3
 
     relatedPostsIcon = "plus-circle"
 
@@ -1161,11 +1161,11 @@ uglyURLs = false
     #       older post if you click next
     #       on the right.
 
-    enablePostNav = true
+    enablePostNav = false
 
     # Apply to posts that below the same
     # top level section only?
-    postNavInSection = true
+    postNavInSection = false
 
 
     ######################################
