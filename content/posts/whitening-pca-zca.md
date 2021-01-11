@@ -163,3 +163,6 @@ Finally, regarding the common practice of reducing dimensionality with PCA prior
 
 ## Acknowledgments
 I'd like to thank [Pierre Ablin](https://pierreablin.com/) for his very helpful comments on an earlier version of this post.
+
+## Download the code
+The script [pca-zca.py](/code/pca-zca.py) contains all relevant code snippets from this post.
