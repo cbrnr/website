@@ -1,3 +1,5 @@
+# (c) Clemens Brunner, licensed under the BSD 3-Clause license
+
 import numpy as np
 from scipy.io import loadmat
 import mne
